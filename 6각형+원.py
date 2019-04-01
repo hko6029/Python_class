@@ -1,0 +1,16 @@
+import turtle
+t=turtle.Turtle()
+t.shape("turtle")
+t.fd(100)
+t.lt(60)
+t.fd(100)
+t.lt(60)
+t.fd(100)
+t.lt(60)
+t.fd(100)
+t.lt(60)
+t.fd(100)
+t.lt(60)
+t.fd(100)
+
+t.circle(100)
